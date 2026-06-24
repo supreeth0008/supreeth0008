@@ -20,9 +20,24 @@
 
 I am a Cloud and DevOps-focused engineer currently pursuing my MCA at S-VYASA University (2025-2027). I build infrastructure that is reliable, observable, and easy to hand over. I learn by breaking things, fixing them properly, and documenting the process so the next engineer does not have to suffer.
 
-I grew up in Tumkur, studied at Sree Siddaganga College (BSc, CGPA 8.2), and I am currently focused on Terraform, Docker, AWS, and CI/CD pipelines. I am not the loudest person in the room, but I am usually the one making sure the server is running while everyone else is presenting.
+I grew up in Tumkur, studied at Sree Siddaganga College (BSc, CGPA 8.2), and I am currently focused on Terraform, Docker, Kubernetes, ArgoCD, and observability stacks. I am not the loudest person in the room, but I am usually the one making sure the server is running while everyone else is presenting.
 
-**Current focus:** Infrastructure as Code, containerization, and cloud-native automation.
+**Current focus:** Infrastructure as Code, GitOps, containerization, and cloud-native automation.
+
+---
+
+### Featured Project: DevOps Infinity Platform
+
+I built a complete 4-phase production-grade DevOps platform from scratch:
+
+| Phase | Focus | Stack |
+|-------|-------|-------|
+| **Phase 1** | Foundation | Flask, Docker, GitHub Actions, Terraform, AWS EC2/ECR |
+| **Phase 2** | Intermediate | Kubernetes (Civo K3s), Prometheus, Grafana Cloud, HPA |
+| **Phase 3** | Advanced | ArgoCD, Argo Rollouts, Canary Deployments, SonarCloud, Trivy |
+| **Phase 4** | FAANG Level | Jaeger, OpenTelemetry, LitmusChaos, HashiCorp Vault |
+
+> [View the full repository](https://github.com/supreeth0008/devops-infinity)
 
 ---
 
@@ -31,9 +46,25 @@ I grew up in Tumkur, studied at Sree Siddaganga College (BSc, CGPA 8.2), and I a
 **Cloud & Infrastructure**
 <br>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/Civo-2D9CDB?style=for-the-badge&logo=civo&logoColor=white">
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+
+**GitOps & CI/CD**
+<br>
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+**Observability & Security**
+<br>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+<img src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black">
+<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white">
+<img src="https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=black">
 
 **Languages & Frameworks**
 <br>
@@ -42,42 +73,10 @@ I grew up in Tumkur, studied at Sree Siddaganga College (BSc, CGPA 8.2), and I a
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 
-**Tools & Workflow**
+**Tools**
 <br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-
----
-
-### Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/supreeth0008/cloud-devops-roadmap">Cloud DevOps Roadmap</a></h3>
-      <p>Interactive visual learning roadmap for Cloud and DevOps technologies. Built with Vite, JavaScript, and modern CSS.</p>
-      <p><b>Tech:</b> JavaScript, HTML5, CSS3, Vite</p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/supreeth0008/devops-infinity">DevOps Infinity</a></h3>
-      <p>Infrastructure-as-Code templates and automation scripts. Terraform configs, Docker setups, Python utilities, and shell scripts for cloud provisioning.</p>
-      <p><b>Tech:</b> Terraform, Python, Docker, AWS, Shell</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/supreeth0008/supreeth_webhook_engine">Webhook Engine</a></h3>
-      <p>Lightweight webhook processing engine with HMAC signature validation, payload routing, and retry logic.</p>
-      <p><b>Tech:</b> Node.js, Express, JavaScript, Crypto</p>
-    </td>
-    <td width="50%">
-      <h3>More coming soon</h3>
-      <p>Currently working on CI/CD pipeline templates and monitoring dashboards with Grafana.</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -87,6 +86,15 @@ I grew up in Tumkur, studied at Sree Siddaganga College (BSc, CGPA 8.2), and I a
   <img src="https://github-readme-stats.vercel.app/api?username=supreeth0008&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supreeth0008&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165">
 </p>
+
+---
+
+### Other Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Cloud DevOps Roadmap](https://github.com/supreeth0008/cloud-devops-roadmap) | Interactive visual learning roadmap | JavaScript, Vite, HTML, CSS |
+| [Webhook Engine](https://github.com/supreeth0008/supreeth_webhook_engine) | Lightweight webhook processor with HMAC | Node.js, Express, Crypto |
 
 ---
 
