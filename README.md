@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/badge/Phone-+91%208310007630-0056b3?style=flat-square">
 </p>
 
+<p align="center">
+  <a href="https://supreeth0008.github.io/supreeth-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live-06b6d4?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
+
 ---
 
 ### About
@@ -23,6 +27,8 @@ I am a Cloud and DevOps-focused engineer currently pursuing my MCA at S-VYASA Un
 I grew up in Tumkur, studied at Sree Siddaganga College (BSc, CGPA 8.2), and I am currently focused on Terraform, Docker, Kubernetes, ArgoCD, and observability stacks. I am not the loudest person in the room, but I am usually the one making sure the server is running while everyone else is presenting.
 
 **Current focus:** Infrastructure as Code, GitOps, containerization, and cloud-native automation.
+
+**Portfolio:** https://supreeth0008.github.io/supreeth-portfolio/
 
 ---
 
@@ -93,7 +99,7 @@ I built a complete 4-phase production-grade DevOps platform from scratch:
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Cloud DevOps Roadmap](https://github.com/supreeth0008/cloud-devops-roadmap) | Interactive visual learning roadmap | JavaScript, Vite, HTML, CSS |
+| [Cloud DevOps Roadmap](https://github.com/supreeth0008/cloud-devops-roadmap) | Interactive visual learning roadmap for Cloud and DevOps | JavaScript, Vite, HTML, CSS |
 | [Webhook Engine](https://github.com/supreeth0008/supreeth_webhook_engine) | Lightweight webhook processor with HMAC | Node.js, Express, Crypto |
 
 ---
@@ -112,6 +118,7 @@ I built a complete 4-phase production-grade DevOps platform from scratch:
 - **Phone:** +91 8310007630
 - **Location:** Tumkur, Karnataka, India
 - **Open to:** Remote roles and relocation
+- **Portfolio:** https://supreeth0008.github.io/supreeth-portfolio/
 
 > I reply faster than your average CI/CD pipeline.
 
